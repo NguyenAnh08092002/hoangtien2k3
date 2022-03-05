@@ -1,4 +1,3 @@
-### Hi, I'm Hoang Anh Tien 👋
 <h1 align="center">Hi 👋, I'm Hoang Anh Tien</h1>
 <h3 align="center">A passionate frontend developer from VietNamese</h3>
 
