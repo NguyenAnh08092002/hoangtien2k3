@@ -28,3 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&locale=en" alt="hoangtien2k3" /></p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&theme=radical)
