@@ -1,5 +1,6 @@
 ### Hi, I'm Hoang Anh Tien 👋
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=vue)
+![:name](https://count.getloli.com/get/@:name)
 
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
