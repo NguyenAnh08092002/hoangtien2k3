@@ -1,3 +1,6 @@
+
+![Screenshot 2022-03-06 005339](https://user-images.githubusercontent.com/91842746/156894802-d9c3182c-3f8e-4fec-9f9b-5b28f936a021.png)
+
 <h1 align="center">Hi 👋, I'm Tien</h1>
 <h3 align="center">A passionate frontend developer from VietNamese.</h3>
 
