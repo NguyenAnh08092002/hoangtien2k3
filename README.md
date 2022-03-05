@@ -2,6 +2,7 @@
 ![Screenshot 2022-03-06 005339](https://user-images.githubusercontent.com/91842746/156894802-d9c3182c-3f8e-4fec-9f9b-5b28f936a021.png)
 
 <h1 align="center">Hi 👋, I'm Tien</h1>
+<h3 align="center">A passionate frontend developer from VietNamese</h3>
 
 - 🌱 I’m currently learning **University Of Transport Technology**
 
@@ -21,7 +22,7 @@
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/hoangtien2k3qx1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/hoangtien2k3qx1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/hoangtien2k3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/hoangtien2k3/" height="30" width="40" /></a>
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&theme=radical)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
