@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Tien</h1>
 <h3 align="center">A passionate frontend developer from VietNamese</h3>
 
-- ✌ Hi ! My name is HOANG ANH TIEN. I'm from Viet Nam.I'm a newbie to the programming world & work as a mobile developer.
+- ✌ Hi ! My name is HOANG ANH TIEN. I'm from Viet Nam. I'm a newbie to the programming world & work as a mobile developer.
 - 👨‍🎓 I’m currently learning Imformation Technology
 - 👨‍💻 All of my projects are available at [https://github.com/hoangtien2k3](https://github.com/hoangtien2k3)
 - 📝 I regularly write articles on [C/C++](C/C++)
