@@ -26,12 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&locale=en" alt="hoangtien2k3" /></p>
 
-name: Comment reactions
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.reactions.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_reactions: yes
-  plugin_reactions_limit: 100
-  plugin_reactions_details: percentage
+
