@@ -1,7 +1,5 @@
 <h1 align="left"> Hi 👋, I'm Tien, a passionate frontend developer from Viet Nam. </h1>
 
-![feature-image]( https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg )
-
 <img align="left" alt="Rafa-pic" height="170" style="border-radius:50px;"
    src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg">   
 </div>
