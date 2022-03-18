@@ -1,4 +1,3 @@
-![Screenshot 2022-03-06 005339](https://user-images.githubusercontent.com/91842746/156894802-d9c3182c-3f8e-4fec-9f9b-5b28f936a021.png)
 
 ## Hi! My name is Hoang Anh Tien, a passionate frontend developer from Viet Nam.
 <div align="center">
