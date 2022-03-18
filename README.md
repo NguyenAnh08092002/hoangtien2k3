@@ -1,8 +1,6 @@
 
 ## My full name is Hoang Anh Tien, a passionate frontend developer from Viet Nam.
 
-
-   
 <img align="left" alt="Rafa-pic" height="170" style="border-radius:50px;"
    src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg">   
 </div>
