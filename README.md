@@ -13,8 +13,8 @@
     <img height="170m" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 
-<img align="right" alt="Rafa-pic" height="115" style="border-radius:50px;"
-   src="https://user-images.githubusercontent.com/91842746/159057417-624a68b3-2467-49df-a8ef-8e6bb9fe9355.jpg">
+<img align="right" alt="Rafa-pic" height="160" style="border-radius:50px;"
+   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg">
 </div>
 
 ##
