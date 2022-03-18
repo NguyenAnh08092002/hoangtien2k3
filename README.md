@@ -1,5 +1,5 @@
-
-## Hi 👋, I'm Chung, a moblie developer from VietNam
+<h1 align="center">Hi 👋, I'm Tien</h1>
+<h3 align="center">A passionate frontend developer from VietNamese</h3>
 <div align="center">
   <a href="https://github.com/hoangchungk53qx1">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hoangchungk53qx1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
