@@ -1,8 +1,10 @@
 
 ## Hi! My name is Hoang Anh Tien, a passionate frontend developer from Viet Nam.
 
+
+   
 <img align="left" alt="Rafa-pic" height="140" style="border-radius:50px;"
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">
+   src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">   
 </div>
 
 <div align="center">
@@ -10,8 +12,6 @@
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 
-     
-   
 <img align="right" alt="Rafa-pic" height="110" style="border-radius:50px;"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">
 </div>
