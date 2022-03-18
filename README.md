@@ -26,7 +26,6 @@
   <a href = "mailto:hoangtien2k3qx1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
     <a href="https://app.codesignal.com/profile/hoang_t_vcc" target="_blank"><img src="https://img.shields.io/badge/codesignal-7289DA?style=for-the-badge&logo=codesignal&logoColor=white" target="_blank"></a> 
   <a href="https://leetcode.com/hoangtien2k3/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-7289DA?style=for-the-badge&logo=LeetCode&logoColor=white" target="_blank"></a> 
-    <a href="https://codeforces.com/profile/hoangtien2k3qx1" target="_blank"><img src="https://img.shields.io/badge/codeforce-7289DA?style=for-the-badge&logo=codeforce&logoColor=white" target="_blank"></a> 
     
   ![Snake animation](https://github.com/hoangtien2k3/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
