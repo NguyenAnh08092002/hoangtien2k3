@@ -14,7 +14,7 @@
 
 
 <img align="right" alt="Rafa-pic" height="115" style="border-radius:50px;"
-   src="https://user-images.githubusercontent.com/91842746/159056072-a9d1b55d-6ad3-428c-8ad9-ee8b72f89096.jpg">
+   src="https://user-images.githubusercontent.com/91842746/159057417-624a68b3-2467-49df-a8ef-8e6bb9fe9355.jpg">
 </div>
 
 ##
