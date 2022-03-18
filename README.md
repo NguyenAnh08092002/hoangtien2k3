@@ -3,13 +3,14 @@
 
 
    
-<img align="left" alt="Rafa-pic" height="140" style="border-radius:50px;"
+<img align="left" alt="Rafa-pic" height="170" style="border-radius:50px;"
    src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">   
 </div>
 
+
 <div align="center">
 <a href="https://github.com/hoangtien2k3">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="150m" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 
 <img align="right" alt="Rafa-pic" height="110" style="border-radius:50px;"
