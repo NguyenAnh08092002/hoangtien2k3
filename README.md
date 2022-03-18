@@ -1,5 +1,5 @@
 
-## Hi! My name is Hoang Anh Tien, a passionate frontend developer from Viet Nam.
+## Hi! My full name is Hoang Anh Tien, a passionate frontend developer from Viet Nam.
 
 
    
