@@ -7,12 +7,14 @@
 </div>
   
 
-<img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;"
+<img align="right" alt="Rafa-pic" height="115" style="border-radius:50px;"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">
 </div>
+
 <img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;"
    src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
 </div>
+
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg">
 </div>
