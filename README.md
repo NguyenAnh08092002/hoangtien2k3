@@ -14,7 +14,7 @@
 
 
 <img align="right" alt="Rafa-pic" height="160" style="border-radius:50px;"
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg">
+   src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg">
 </div>
 
 ##
