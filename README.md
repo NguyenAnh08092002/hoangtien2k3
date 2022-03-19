@@ -28,5 +28,7 @@
   <a href="https://leetcode.com/hoangtien2k3/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-7289DA?style=for-the-badge&logo=LeetCode&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UCV9v7sWQb2XTa7bd2cR0hZQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     
-  ![Snake animation](https://github.com/hoangtien2k3/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/hoangtien2k3/rafaballerini/output/github-contribution-grid-snake.svg)
 </div>
+   
+   
