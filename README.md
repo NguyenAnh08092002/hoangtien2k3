@@ -14,7 +14,7 @@
 
 
 <img align="right" alt="Rafa-pic" height="110" style="border-radius:50px;"
-   src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg">
+   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">
 </div>
 
 ##
