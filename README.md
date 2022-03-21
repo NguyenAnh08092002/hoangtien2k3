@@ -1,14 +1,11 @@
 <h1 align="left"> Hi 👋, I'm Tien, a passionate frontend developer from Viet Nam. </h1>
 
-
-
-<img align="left" alt="Rafa-pic" height="140" style="border-radius:50px;"
-   src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg">   
+<img align="left" alt="Rafa-pic" height="190" style="border-radius:50px;"
+   src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg">   
 </div>
 
-
-<img align="left" alt="Rafa-pic" height="180" style="border-radius:50px;"
-   src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg">   
+<img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;"
+   src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg">   
 </div>
 
 <div align="center">
