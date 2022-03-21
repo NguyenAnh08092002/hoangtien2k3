@@ -2,12 +2,12 @@
 
 
 
-<img align="left" alt="Rafa-pic" height="170" style="border-radius:50px;"
+<img align="left" alt="Rafa-pic" height="140" style="border-radius:50px;"
    src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg">   
 </div>
 
 
-<img align="left" alt="Rafa-pic" height="170" style="border-radius:50px;"
+<img align="left" alt="Rafa-pic" height="180" style="border-radius:50px;"
    src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg">   
 </div>
 
