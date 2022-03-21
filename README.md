@@ -1,7 +1,7 @@
 <h1 align="left"> Hi 👋, I'm Tien, a passionate frontend developer from Viet Nam. </h1>
 
 <img align="left" alt="Rafa-pic" height="170" style="border-radius:50px;"
-   src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg">   
+   src="https://mma.prnewswire.com/media/716163/CodeSignal_Logo.jpg?p=facebook">   
 </div>
 <img align="left" alt="Rafa-pic" height="170" style="border-radius:50px;"
    src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">   
