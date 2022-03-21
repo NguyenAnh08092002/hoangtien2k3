@@ -8,7 +8,7 @@
 
 
 <img align="left" alt="Rafa-pic" height="170" style="border-radius:50px;"
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">   
+   src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg">   
 </div>
 
 <div align="center">
