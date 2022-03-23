@@ -10,7 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/hoangtien2k3">
-   <a href="#"><img alt="#" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+   <a href="#"><img height="180" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+
 
    
 <img align="right" alt="Rafa-pic" height="120" style="border-radius:50px;"
