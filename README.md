@@ -1,4 +1,4 @@
-<h1 align="left"> Hi 👋, I'm Tien, a passionate frontend developer from Viet Nam. </h1>
+<h1 align="left"> Hi 👋, I'm Tien, a developer from Viet Nam. </h1>
 
 <img align="left" alt="Rafa-pic" height="190" style="border-radius:50px;"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">   
