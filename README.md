@@ -4,7 +4,7 @@
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">   
 </div>
 
-<img align="left" alt="Rafa-pic" height="200" style="border-radius:50px;"
+<img align="left" alt="Rafa-pic" height="170" style="border-radius:50px;"
    src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">   
 </div>
 
@@ -14,7 +14,7 @@
 
 
    
-<img align="right" alt="Rafa-pic" height="180" style="border-radius:50px;"
+<img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
 </div>
 
