@@ -14,7 +14,7 @@
 
 
    
-<img align="right" alt="Rafa-pic" height="130" style="border-radius:50px;"
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
 </div>
 
