@@ -2,11 +2,11 @@
 
 
 
-<img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;"
+<img align="left" alt="Rafa-pic" height="140" style="border-radius:50px;"
    src="https://raw.githubusercontent.com/CodexploreRepo/CodexploreRepo/master/.github/assets/coding.gif">   
 </div>
 
-<img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;"
+<img align="left" alt="Rafa-pic" height="140" style="border-radius:50px;"
    src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">   
 </div>
 
