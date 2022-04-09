@@ -1,20 +1,13 @@
 <h1 align="left"> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">  I'm Tien, a developer from Viet Nam. </h1>
 
-
-
 <img align="left" alt="Rafa-pic" height="180" style="border-radius:50px;"
    src="https://raw.githubusercontent.com/CodexploreRepo/CodexploreRepo/master/.github/assets/coding.gif">   
 </div>
-
-
-
 
 <div align="center">
   <a href="https://github.com/hoangtien2k3">
    <a href="#"><img height="180" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
     
- 
-   
 <img align="right" alt="Rafa-pic" height="130" style="border-radius:50px;"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">   
 </div>
