@@ -1,14 +1,17 @@
 <h1 align="left"> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">  I'm Tien, a developer from Viet Nam. </h1>
-<img align="left" alt="Rafa-pic" height="180" style="border-radius:50px;"
-   src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true">   
-</div>
-<div align="right">
+
+<br/>
+<p align="left">
   <a href="https://github.com/hoangtien2k3">
-   <a href="#"><img height="180" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a> 
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtien2k3&theme=gruvbox&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+<br>
 <img align="right" alt="Rafa-pic" height="130style="border-radius:50px;"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">   
 </div>
-    
+                                                                                                              
 ##
    
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="35"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="35"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="35"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="35"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="35"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="35"/> </a> </p>
