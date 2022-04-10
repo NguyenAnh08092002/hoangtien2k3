@@ -1,13 +1,10 @@
 <h1 align="left"> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">  I'm Tien, a developer from Viet Nam. </h1>
-
-<img align="left" alt="Rafa-pic" height="190" style="border-radius:50px;"
+<img align="left" alt="Rafa-pic" height="180" style="border-radius:50px;"
    src="https://raw.githubusercontent.com/hoangtien2k3/CodexploreRepo/master/.github/assets/coding.gif">   
 </div>
-
 <div align="center">
   <a href="https://github.com/hoangtien2k3">
-   <a href="#"><img height="190" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
-    
+   <a href="#"><img height="180" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a> 
 <img align="right" alt="Rafa-pic" height="130" style="border-radius:50px;"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">   
 </div>
@@ -21,6 +18,7 @@
    <a href = "mailto:hoangtien2k3qx1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
     <a href="https://app.codesignal.com/profile/hoang_t_vcc" target="_blank"><img src="https://img.shields.io/badge/codesignal-7289DA?style=for-the-badge&logo=codesignal&logoColor=white" target="_blank"></a> 
     <a href="https://leetcode.com/hoangtien2k3/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-7289DA?style=for-the-badge&logo=LeetCode&logoColor=white" target="_blank"></a>
+      <a href="https://www.javatpoint.com/" target="_blank"><img src="https://img.shields.io/badge/-javatpoint-%230077B5?style=for-the-badge&logo=javatpoint&logoColor=white" target="_blank"></a>
    
     
   ![Snake animation](https://raw.githubusercontent.com/hoangtien2k3/rafaballerini/output/github-contribution-grid-snake.svg)
