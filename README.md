@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/hoangtien2k3">
-   <a href="#"><img height="180" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+   <a href="#"><img height="190" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
     
 <img align="right" alt="Rafa-pic" height="130" style="border-radius:50px;"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">   
