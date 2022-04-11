@@ -23,10 +23,18 @@
    <a href="https://app.codesignal.com/profile/hoang_t_vcc" target="_blank"><img src="https://img.shields.io/badge/Codesignal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" target="_blank"></a> 
    <a href="https://stackoverflow.com/users/17357931/ti%e1%ba%bfn" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
    
+##
+
+
+
+  ![Snake animation](https://raw.githubusercontent.com/hoangtien2k3/rafaballerini/output/github-contribution-grid-snake.svg)
+</div>
+
 
 
 <!-- FOLLOWER-LIST:START -->
 <table>
+
   <tr>
 
 <td align="center">
@@ -83,25 +91,18 @@
      </a>
      <br />
      <a href="https://github.com/thantrieu">thantrieu</a>
-  </td>						    
-		  </tr>
-					      
+  </td>								   
+		  </tr>	
+
+					   
   <tr>
 
-
-	
 					   
 					   
+					   					      				   
 					   
-					   
-					       
-  ![Snake animation](https://raw.githubusercontent.com/hoangtien2k3/rafaballerini/output/github-contribution-grid-snake.svg)
-</div>
-
-
-
 </table>
 <!-- FOLLOWER-LIST:END -->
 
-## ![](https://komarev.com/ghpvc/?username=hoanngtien2k3&color=238dd9&style=flat&label=VIEWS)
+ ![](https://komarev.com/ghpvc/?username=hoanngtien2k3&color=238dd9&style=flat&label=VIEWS)
    
