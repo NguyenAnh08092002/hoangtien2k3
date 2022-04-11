@@ -3,7 +3,7 @@
 <br/>
 <p align="left">
   <a href="https://github.com/hoangtien2k3">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&count_private=true&theme=Javascript-dark&hide_border=true&bg_color=0D1117" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=hoangtien2k3&theme=Javascript-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
@@ -26,18 +26,15 @@
    <a href="https://app.codesignal.com/profile/hoang_t_vcc" target="_blank"><img src="https://img.shields.io/badge/Codesignal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" target="_blank"></a> 
    <a href="https://stackoverflow.com/users/17357931/ti%e1%ba%bfn" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
 
-
 ##
 
   ![Snake animation](https://raw.githubusercontent.com/hoangtien2k3/rafaballerini/output/github-contribution-grid-snake.svg)
 </div>
 
-
 🪐 Lastest Followers :
 <!-- FOLLOWER-LIST:START -->
 <table>
   <tr>
-
 <td align="center">
      <a href="https://github.com/hoangchungk53qx1">
        <img src="https://avatars.githubusercontent.com/u/52132635?v=4" width="100px;" alt="hoangchungk53qx1"/>
@@ -97,4 +94,4 @@
 					   
   <tr>
 
-					   
+						   					   					  					 					   
