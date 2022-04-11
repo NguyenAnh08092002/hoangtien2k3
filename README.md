@@ -64,24 +64,8 @@
      </a>
      <br />
      <a href="https://github.com/caodchuong312">caodchuong312</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/TuanBui-archdemon">
-       <img src="https://avatars.githubusercontent.com/u/81811541?v=4" width="100px;" alt="TuanBui-archdemon"/>
-     </a>
-     <br />
-     <a href="https://github.com/TuanBui-archdemon">TuanBui-archdemon</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/vokimson">
-       <img src="https://avatars.githubusercontent.com/u/84184229?v=4" width="100px;" alt="vokimson"/>
-     </a>
-     <br />
-     <a href="https://github.com/vokimson">vokimson</a>
-  </td>
-		
+  </td>				
+
 <td align="center">
      <a href="https://github.com/hoangtien2k3">
        <img src="https://avatars.githubusercontent.com/u/91842746?v=4" width="100px;" alt="hoangtien2k3"/>
@@ -90,6 +74,7 @@
      <a href="https://github.com/hoangtien2k3">hoangtien2k3</a>
   </td>
 		  </tr>
+					      
   <tr>
 
 
