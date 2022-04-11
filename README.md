@@ -1,5 +1,4 @@
 <h1 align="left"> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">  I'm Tien, a developer from Viet Nam. </h1>
-
 <br/>
 <p align="left">
   <a href="https://github.com/hoangtien2k3">
@@ -12,8 +11,6 @@
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">   
 </div>												      
                                                                                                               
-
-   
 <p align="left"></table>
 <!-- FOLLOWER-LIST:END -->
 
@@ -30,4 +27,3 @@
 
   ![Snake animation](https://raw.githubusercontent.com/hoangtien2k3/rafaballerini/output/github-contribution-grid-snake.svg)
 </div>
-				   					   					  					 					   
