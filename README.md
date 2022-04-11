@@ -23,11 +23,6 @@
    <a href="https://app.codesignal.com/profile/hoang_t_vcc" target="_blank"><img src="https://img.shields.io/badge/Codesignal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" target="_blank"></a> 
    <a href="https://stackoverflow.com/users/17357931/ti%e1%ba%bfn" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
    
-    
-  ![Snake animation](https://raw.githubusercontent.com/hoangtien2k3/rafaballerini/output/github-contribution-grid-snake.svg)
-</div>
-
-
 
 
 <!-- FOLLOWER-LIST:START -->
@@ -73,11 +68,35 @@
      <br />
      <a href="https://github.com/hoangtien2k3">hoangtien2k3</a>
   </td>
+
+<td align="center">
+     <a href="https://github.com/codereport">
+       <img src="https://avatars.githubusercontent.com/u/36027403?v=4" width="100px;" alt="codereport"/>
+     </a>
+     <br />
+     <a href="https://github.com/codereport">codereport</a>
+  </td>		
+					    
+<td align="center">
+     <a href="https://github.com/thantrieu">
+       <img src="https://avatars.githubusercontent.com/u/34931034?v=4" width="100px;" alt="thantrieu"/>
+     </a>
+     <br />
+     <a href="https://github.com/thantrieu">thantrieu</a>
+  </td>						    
 		  </tr>
 					      
   <tr>
 
 
+	
+					   
+					   
+					   
+					   
+					       
+  ![Snake animation](https://raw.githubusercontent.com/hoangtien2k3/rafaballerini/output/github-contribution-grid-snake.svg)
+</div>
 
 
 
