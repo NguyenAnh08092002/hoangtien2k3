@@ -10,15 +10,14 @@
 <br>
 <img align="right" alt="Rafa-pic" height="130style="border-radius:50px;"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">   
-</div>
-</table>
-<!-- FOLLOWER-LIST:END -->
-
- ![](https://komarev.com/ghpvc/?username=hoanngtien2k3&color=238dd9&style=flat&label=VIEWS)													      
+</div>												      
                                                                                                               
 ##
    
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="35"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="35"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="35"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="35"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="35"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="35"/> </a> </p>
+<p align="left"></table>
+<!-- FOLLOWER-LIST:END -->
+
+ ![](https://komarev.com/ghpvc/?username=hoanngtien2k3&color=238dd9&style=flat&label=VIEWS) <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="35"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="35"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="35"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="35"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="35"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="35"/> </a> </p>
 <div> 
    <a href="https://www.facebook.com/hoangtien2k3.vn/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
    <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a> 
@@ -33,10 +32,9 @@
 </div>
 
 
-
+🪐 Lastest Followers :
 <!-- FOLLOWER-LIST:START -->
 <table>
-
   <tr>
 
 <td align="center">
@@ -95,16 +93,7 @@
      <a href="https://github.com/thantrieu">thantrieu</a>
   </td>								   
 		  </tr>	
-
 					   
   <tr>
 
 					   
-					   
-					   					      				   
-					   
-</table>
-<!-- FOLLOWER-LIST:END -->
-
- ![](https://komarev.com/ghpvc/?username=hoanngtien2k3&color=238dd9&style=flat&label=VIEWS)
-   
