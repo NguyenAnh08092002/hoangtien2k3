@@ -3,8 +3,8 @@
 <br/>
 <p align="left">
   <a href="https://github.com/hoangtien2k3">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=hoangtien2k3&theme=Javascript-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=0D1117" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=hoangtien2k3&theme=darcula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
 <br>
