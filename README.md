@@ -8,12 +8,11 @@
 
 <!--
 <div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  <a href="https://www.nhaccuatui.com/bai-hat/with-you-ngau-hung-nick-strand-ft-hoaprox-ft-mio.SOfB18Rsri1O.html">
+    <img src="https://nhaccuatui.com-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
   </a>
 </div>
 -->
-
 
 <br/>
 <p align="left">
@@ -43,7 +42,3 @@
 
   ![Snake animation](https://raw.githubusercontent.com/hoangtien2k3/rafaballerini/output/github-contribution-grid-snake.svg)
 </div>
-
-
-
-
