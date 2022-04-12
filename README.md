@@ -1,7 +1,7 @@
 <h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">  I'm Tien, a developer from Viet Nam. </h1>
 
 <div align="center">
-  <a href="https://www.nhaccuatui.com/bai-hat/with-you-ngau-hung-nick-strand-ft-hoaprox-ft-mio.SOfB18Rsri1O.html">
+  <a href="https://www.nhaccuatui.com/playlist/bai-hat-yeu-thich-cua-hoang-anh-tien-dang-cap-nhat.83PWmUDTvsPK.html">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
