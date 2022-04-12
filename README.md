@@ -1,5 +1,20 @@
 <h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">  I'm Tien, a developer from Viet Nam. </h1>
 
+<div align="center">
+  <a href="https://www.nhaccuatui.com/bai-hat/with-you-ngau-hung-nick-strand-ft-hoaprox-ft-mio.SOfB18Rsri1O.html">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
+
+<!--
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div>
+-->
+
+
 <br/>
 <p align="left">
   <a href="https://github.com/hoangtien2k3">
@@ -28,3 +43,7 @@
 
   ![Snake animation](https://raw.githubusercontent.com/hoangtien2k3/rafaballerini/output/github-contribution-grid-snake.svg)
 </div>
+
+
+
+
