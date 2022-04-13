@@ -4,15 +4,6 @@
   <a href="https://www.nhaccuatui.com/playlist/bai-hat-yeu-thich-cua-hoang-anh-tien-dang-cap-nhat.83PWmUDTvsPK.html">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
-</div>
-
-<!--
-<div align="center">
-  <a href="https://www.nhaccuatui.com/bai-hat/with-you-ngau-hung-nick-strand-ft-hoaprox-ft-mio.SOfB18Rsri1O.html">
-    <img src="https://nhaccuatui.com-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
 
 <br/>
 <p align="left">
