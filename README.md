@@ -23,7 +23,7 @@
 <div> 
    <a href="https://www.facebook.com/hoangtien2k3.vn/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
    <a href ="mailto:hoangtien2k3qx1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
-   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/vs%20code-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a> 
+   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a> 
    <a href="https://leetcode.com/hoangtien2k3/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a>
    <a href="https://app.codesignal.com/profile/hoang_t_vcc" target="_blank"><img src="https://img.shields.io/badge/Codesignal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" target="_blank"></a> 
    <a href="https://stackoverflow.com/users/17357931/ti%e1%ba%bfn" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
