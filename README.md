@@ -32,20 +32,3 @@
 
   ![Snake animation](https://raw.githubusercontent.com/hoangtien2k3/rafaballerini/output/github-contribution-grid-snake.svg)
 </div>
-
-
-
-
-
-
-
-<img src="https://now-play.vercel.app/api/generate?uid=d1d5d1fb-06ff-4611-a51e-803b25dc4aa7" />
-
-<!-- or -->
-
-<object data="https://now-play.vercel.app/api/generate?uid=d1d5d1fb-06ff-4611-a51e-803b25dc4aa7" >
-
-
-
-
-<img src="https://now-play.vercel.app/api/generate?uid=d1d5d1fb-06ff-4611-a51e-803b25dc4aa7&theme=dark" />
