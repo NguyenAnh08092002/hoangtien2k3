@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="hi">   I'm Hoang Tien , a developer from Viet Nam. </h1>
+<h1 align="center"> Hi 👋, I'm Hoang Tien , a developer from Viet Nam. </h1>
 
 <div align="center">
   <a href="https://open.spotify.com/playlist/5aAucp8ZepDDH3EqEgOjsg">
@@ -19,7 +19,7 @@
 <p align="left"></table>
 <!-- FOLLOWER-LIST:END -->
 
- ![](https://komarev.com/ghpvc/?username=hoanngtien2k3&color=238dd9&style=flat&label=Profile) <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </a> <a href="https://www.javatpoint.com/cpp-tutorial" target="_blank" rel="noreferrer"> 
+ ![](https://komarev.com/ghpvc/?username=hoanngtien2k3&color=238dd9&style=flat&label=Profile_view) <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </a> <a href="https://www.javatpoint.com/cpp-tutorial" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.javatpoint.com/java-tutorial" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.w3schools.com/kotlin/index.php" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
