@@ -39,4 +39,4 @@
   ![Snake animation](https://raw.githubusercontent.com/hoangtien2k3/rafaballerini/output/github-contribution-grid-snake.svg)
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&color=0E11F7&lines=Hi+%F0%9F%91%8B%2C+Welcome+back+to+Ho%C3%A0ng+Ti%E1%BA%BFn's+GitHub.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&color=2FF715&background=9BCEFF00&lines=Hi+%F0%9F%91%8B%2C+Welcome+back+to+Ho%C3%A0ng+Ti%E1%BA%BFn's+GitHub.)](https://git.io/typing-svg)
