@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Hoang Tien , a developer from Viet Nam. </h1>
+<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Hoang Tien , a developer from Viet Nam. </h1>
 
 <div align="center">
   <a href="https://open.spotify.com/playlist/5aAucp8ZepDDH3EqEgOjsg">
@@ -15,6 +15,10 @@
 <img align="right" alt="Rafa-pic" height="130style="border-radius:50px;"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">   
 </div>												      
+
+  <p align="center">
+  <a href="https://github.com/hoangtien2k3/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F7627D&lines=Welcome%20to%20Hoang%20Tien's%20GitHub.;App+developer%20from%20Viet%20Nam.;Always%20learning%20new%20things.;Being%20a%20first-year%20student.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
                                                                                                               
 <p align="left"></table>
 <!-- FOLLOWER-LIST:END -->
@@ -39,4 +43,3 @@
   ![Snake animation](https://raw.githubusercontent.com/hoangtien2k3/rafaballerini/output/github-contribution-grid-snake.svg)
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&lines=%F0%9F%91%8B+Welcome+back+to+Ho%C3%A0ng+Ti%E1%BA%BFn's+GitHub.;A+developer+from+Viet+Nam.)](https://git.io/typing-svg)
