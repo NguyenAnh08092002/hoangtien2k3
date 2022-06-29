@@ -77,7 +77,7 @@
 </div>
 
 
-## 📊 Github Graph
+### 📊 Github Graph
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile </summary>
