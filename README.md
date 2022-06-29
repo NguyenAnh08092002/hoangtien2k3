@@ -84,8 +84,8 @@
   <br/>
     <a href="https://github.com/hoangtien2k3">
   <img align="left" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/91842746/176390636-934e7eeb-dc01-4232-8594-0d02a098725d.jpg">
-  <img align="left" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/91842746/176392861-57a57a2f-e8e4-4586-90b0-a289d6ebc3ba.jpg">
-  <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&theme=radical" />
+  <img align="center" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/91842746/176392861-57a57a2f-e8e4-4586-90b0-a289d6ebc3ba.jpg">
+  <img align="right" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&theme=radical" />
   </a>
   <br/>
 </details>
