@@ -17,7 +17,7 @@
 </div>												      
 
   <p align="center">
-  <a href="https://github.com/hoangtien2k3/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F7627D&lines=Welcome%20to%20Hoang%20Tien's%20GitHub.;App+developer%20from%20Viet%20Nam.;Always%20learning%20new%20things.;Being%20a%20first-year%20student.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/hoangtien2k3/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F7627D&lines=Welcome%20to%20Hoang%20Tien's%20GitHub.;App+developer%20from%20Viet%20Nam.;Always%20learning%20new%20things.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
                                                                                                               
 <p align="left"></table>
