@@ -13,7 +13,7 @@
 </p>
 <br>
 <img align="right" alt="Rafa-pic" height="160" style="border-radius:50px;"
-   src="https://user-images.githubusercontent.com/91842746/176378920-c771a5e6-5834-43fd-bf4f-3041ab33f9b1.jpg">   
+   src="https://user-images.githubusercontent.com/91842746/176388483-07e9f019-72fe-4292-90a2-ae26a5303d94.jpg">   
 </div>												      
 
   <p align="center">
@@ -83,14 +83,11 @@
   <summary>💻 GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></summary>
   <br/>
     <a href="https://github.com/hoangtien2k3">
-  <img align="left" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/91842746/176378920-c771a5e6-5834-43fd-bf4f-3041ab33f9b1.jpg">
-  <img width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
-  <img align="right" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&theme=radical" />
+  <img align="left" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/91842746/176390636-934e7eeb-dc01-4232-8594-0d02a098725d.jpg">
+  <img align="left" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/91842746/176392861-57a57a2f-e8e4-4586-90b0-a289d6ebc3ba.jpg">
+  <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&theme=radical" />
   </a>
   <br/>
 </details>
 
-
 <a href="https://github.com/hoangtien2k3"><img alt="hoangtien2k3's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=hoangtien2k3&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
