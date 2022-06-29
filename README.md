@@ -77,10 +77,10 @@
 </div>
 
 
-### 📊 Github Graph
+### 📊 Github Graph 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
-  <summary>💻 GitHub Profile </summary>
+  <summary>💻 GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></summary>
   <br/>
     <a href="https://github.com/hoangtien2k3">
   <img width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" />
