@@ -83,9 +83,9 @@
   <summary>💻 GitHub Profile </summary>
   <br/>
     <a href="https://github.com/hoangtien2k3">
-  <img width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
   <img width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" />
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&theme=radical" />
+  <img width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
+  <img align="right" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&theme=radical" />
   </a>
   <br/>
 </details>
