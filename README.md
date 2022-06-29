@@ -91,7 +91,5 @@
 </details>
 
 
-  
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="hoangtien2k3's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=hoangtien2k3&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/hoangtien2k3"><img alt="hoangtien2k3's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=hoangtien2k3&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
