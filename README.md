@@ -57,6 +57,7 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
+
 ### 💻 Software and Tools
 
 <p>
@@ -76,14 +77,15 @@
 </div>
 
 
-
+## 📊 Github Graph
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile </summary>
   <br/>
     <a href="https://github.com/hoangtien2k3">
+  <img width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
+  <img width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" />
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&theme=radical" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtien2k3&theme=radical" />
   </a>
   <br/>
 </details>
