@@ -81,11 +81,11 @@
   <summary>💻 GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></summary>
   <br/>
     <a href="https://github.com/hoangtien2k3">
-  <img align="center" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/91842746/176390636-934e7eeb-dc01-4232-8594-0d02a098725d.jpg">
-  <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&theme=radical" />
-  <img align="center" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/91842746/176392861-57a57a2f-e8e4-4586-90b0-a289d6ebc3ba.jpg">
+  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/91842746/176390636-934e7eeb-dc01-4232-8594-0d02a098725d.jpg">
+  ![GitHub Profile Summary stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangtien2k3&theme=radical&show_icons=true)
   </a>
   <br/>
 </details>
 
 <a href="https://github.com/hoangtien2k3"><img alt="hoangtien2k3's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=hoangtien2k3&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  
