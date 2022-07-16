@@ -43,7 +43,7 @@
 
 ##
 
-### 👨 Programming and Languages
+### 👨 Languages and Tools
 
 <p>
     <a href="https://github.com/hoangtien2k3/Codesignal"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -60,8 +60,6 @@
     <a href="https://www.javatpoint.com/sql-tutorial"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
-
-### 💻 Software and Tools
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
@@ -80,18 +78,7 @@
 </div>
 
 
-### 📊 Github Graph 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></summary>
-  <br/>
-    <a href="https://github.com/hoangtien2k3">
-    
-  ![GitHub Profile Summary stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangtien2k3&theme=radical&show_icons=true)
-  </a>
-  
-  <br/>
-</details>
 
-<a href="https://github.com/hoangtien2k3"><img alt="hoangtien2k3's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=hoangtien2k3&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
   
