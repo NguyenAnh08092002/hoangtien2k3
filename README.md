@@ -9,34 +9,13 @@
 
 <br/>
 
-<p align="center">
-  <a href="mailto:hoangtien2k3qx1@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=stobertonf@gmail.com" /></a>
-
-  <a href="https://www.linkedin.com/in/hoang-anh-tien-928388193/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stoberton-francisco/" /></a>
-
-  <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5511994223176" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=http://api.whatsapp.com/send?1=pt_BR&phone=5511994223176"/></a>
-
-</p>
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/hoangtien2k3">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&theme=radical"
-    />
-  </a>
-  <a href="https://github.com/hoangtien2k3">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtien2k3&theme=radical"
-    />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&theme=radical" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtien2k3&theme=radical" />
   </a>
 </p>
+
 
 <br>
 <img align="right" alt="Rafa-pic" height="160" style="border-radius:50px;"
@@ -100,19 +79,3 @@
   ![Snake animation](https://raw.githubusercontent.com/hoangtien2k3/rafaballerini/output/github-contribution-grid-snake.svg)
 </div>
 
-
-
-
-
-
-
-
-
-<p align="left">
-  <a href="https://github.com/hoangtien2k3">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&theme=radical" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtien2k3&theme=radical" />
-  </a>
-</p>
-
-  
