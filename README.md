@@ -25,14 +25,14 @@
   <a href="https://github.com/hoangtien2k3">
     <img
       align="center"
-      height="190em"
+      height="150em"
       src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&theme=radical"
     />
   </a>
   <a href="https://github.com/hoangtien2k3">
     <img
       align="center"
-      height="190em"
+      height="150em"
       src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtien2k3&theme=radical"
     />
   </a>
